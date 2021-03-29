@@ -1,0 +1,40 @@
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    text-align: center;
+  
+  }
+
+
+
+.red{
+  background-color: rgb(248, 194, 194);
+
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
